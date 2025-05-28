@@ -1,0 +1,148 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Diagrama de Processo" id="3Y9EexFNmlPLbYBBcwJi">
+    <mxGraphModel dx="1869" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="63" y="50" width="807" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-2" value="Tarugo&lt;div&gt;de aço&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="90" y="160" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;Estiragem&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="223" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;Torção&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="475" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-6" value="&lt;span style=&quot;text-align: left;&quot;&gt;Galvanização&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="322" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;Pré-tratamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="223" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-8" value="&lt;span style=&quot;text-align: left;&quot;&gt;Corte&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="620" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-9" value="&lt;span style=&quot;text-align: left;&quot;&gt;Empacotamento&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="680" y="277" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-12" value="&lt;div&gt;Bobina de Cabo de Aço Entrançado&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="750" y="210" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-13" y="200.46000000000004" as="sourcePoint" />
+            <mxPoint x="90" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="249.75" as="sourcePoint" />
+            <mxPoint x="930" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-15" value="Fio de Aço e Zinco&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="416.5" y="350" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465.90999999999997" y="540" as="sourcePoint" />
+            <mxPoint x="465.90999999999997" y="440.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="b4nz6HMAPyp6HG6tF1V4-2" target="b4nz6HMAPyp6HG6tF1V4-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="310" as="sourcePoint" />
+            <mxPoint x="200" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b4nz6HMAPyp6HG6tF1V4-4" target="b4nz6HMAPyp6HG6tF1V4-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="254.71572875252696" y="260.0042712474733" as="sourcePoint" />
+            <mxPoint x="280" y="271.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-21" value="Fio de aço&#39;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="197" y="290" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="b4nz6HMAPyp6HG6tF1V4-7" target="b4nz6HMAPyp6HG6tF1V4-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="390" as="sourcePoint" />
+            <mxPoint x="390" y="341.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-24" value="Fio de aço" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="355" y="360" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="b4nz6HMAPyp6HG6tF1V4-15" target="b4nz6HMAPyp6HG6tF1V4-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-26" value="712 m de Fio de aço + 2,25 kg de Zinco" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="322" y="277" width="78" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="b4nz6HMAPyp6HG6tF1V4-6" target="b4nz6HMAPyp6HG6tF1V4-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="b4nz6HMAPyp6HG6tF1V4-5" target="b4nz6HMAPyp6HG6tF1V4-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="250" as="sourcePoint" />
+            <mxPoint x="520" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b4nz6HMAPyp6HG6tF1V4-8" target="qZjfQ4l1LqkW5lKqDllb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="300" as="sourcePoint" />
+            <mxPoint x="540" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="b4nz6HMAPyp6HG6tF1V4-9" target="b4nz6HMAPyp6HG6tF1V4-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="270" as="sourcePoint" />
+            <mxPoint x="700" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-31" value="Fio galvanizado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="150" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-35" value="Bobina de Cabo de Aço Entrançado&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="770" y="305" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-36" value="Cabo de aço entrançado&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b4nz6HMAPyp6HG6tF1V4-37" value="Cabo de aço entrançado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5ZlZpSqNtuMSmoJb6no-1" value="~4,8 % Tarugo de aço" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZjfQ4l1LqkW5lKqDllb-1" value="&lt;div&gt;&lt;div&gt;Cabo de Aço Entrançado e Bobina&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="540" y="290" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qZjfQ4l1LqkW5lKqDllb-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589" y="540" as="sourcePoint" />
+            <mxPoint x="589.37" y="380.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZjfQ4l1LqkW5lKqDllb-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qZjfQ4l1LqkW5lKqDllb-1" target="b4nz6HMAPyp6HG6tF1V4-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="242" as="sourcePoint" />
+            <mxPoint x="600" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZjfQ4l1LqkW5lKqDllb-4" value="100 m de Cabo de Aço Entrançado&amp;nbsp;+ 1 Bobina" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="350" width="78" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
